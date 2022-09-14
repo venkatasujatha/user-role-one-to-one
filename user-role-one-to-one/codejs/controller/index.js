@@ -1,0 +1,1 @@
+module.exports = require('/home/tectoro/Desktop/codejs/controller/role.js')
